@@ -1,0 +1,2018 @@
+[
+    {
+        "id": "__",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "___",
+        "nameEn": "Unknown",
+        "nameFa": "ناشناخته",
+        "phonePrefix": "0000"
+    },
+    {
+        "id": "AD",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "AND",
+        "nameEn": "Andorra",
+        "nameFa": "آندورا",
+        "phonePrefix": "376"
+    },
+    {
+        "id": "AE",
+        "gmtOffsetInMinute": 14400,
+        "cca5": "ARE",
+        "nameEn": "United Arab Emirates",
+        "nameFa": "امارات متحده عربی",
+        "phonePrefix": "971"
+    },
+    {
+        "id": "AF",
+        "gmtOffsetInMinute": 16200,
+        "cca5": "AFG",
+        "nameEn": "Afghanistan",
+        "nameFa": "افغانستان",
+        "phonePrefix": "93"
+    },
+    {
+        "id": "AG",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "ATG",
+        "nameEn": "Antigua and Barbuda",
+        "nameFa": "آنتیگوا و باربودا",
+        "phonePrefix": "1-268"
+    },
+    {
+        "id": "AI",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "AIA",
+        "nameEn": "Anguilla",
+        "nameFa": "آنگویلا",
+        "phonePrefix": "1-264"
+    },
+    {
+        "id": "AL",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "ALB",
+        "nameEn": "Albania",
+        "nameFa": "آلبانی",
+        "phonePrefix": "355"
+    },
+    {
+        "id": "AM",
+        "gmtOffsetInMinute": 14400,
+        "cca5": "ARM",
+        "nameEn": "Armenia",
+        "nameFa": "ارمنستان",
+        "phonePrefix": "374"
+    },
+    {
+        "id": "AO",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "AGO",
+        "nameEn": "Angola",
+        "nameFa": "آنگولا",
+        "phonePrefix": "244"
+    },
+    {
+        "id": "AQ",
+        "gmtOffsetInMinute": 39600,
+        "cca5": "ATA",
+        "nameEn": "Antarctica",
+        "nameFa": "جنوبگان",
+        "phonePrefix": "672"
+    },
+    {
+        "id": "AR",
+        "gmtOffsetInMinute": -10800,
+        "cca5": "ARG",
+        "nameEn": "Argentina",
+        "nameFa": "آرژانتین",
+        "phonePrefix": "54"
+    },
+    {
+        "id": "AS",
+        "gmtOffsetInMinute": -39600,
+        "cca5": "ASM",
+        "nameEn": "American Samoa",
+        "nameFa": "ساموآی آمریکا",
+        "phonePrefix": "1-684"
+    },
+    {
+        "id": "AT",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "AUT",
+        "nameEn": "Austria",
+        "nameFa": "اتریش",
+        "phonePrefix": "43"
+    },
+    {
+        "id": "AU",
+        "gmtOffsetInMinute": 39600,
+        "cca5": "AUS",
+        "nameEn": "Australia",
+        "nameFa": "استرالیا",
+        "phonePrefix": "61"
+    },
+    {
+        "id": "AW",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "ABW",
+        "nameEn": "Aruba",
+        "nameFa": "آروبا",
+        "phonePrefix": "297"
+    },
+    {
+        "id": "AX",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "ALA",
+        "nameEn": "Aland Islands",
+        "nameFa": "جزایر الند",
+        "phonePrefix": "358-18"
+    },
+    {
+        "id": "AZ",
+        "gmtOffsetInMinute": 14400,
+        "cca5": "AZE",
+        "nameEn": "Azerbaijan",
+        "nameFa": "آذربایجان",
+        "phonePrefix": "994"
+    },
+    {
+        "id": "BA",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "BIH",
+        "nameEn": "Bosnia and Herzegovina",
+        "nameFa": "بوسنی و هرزگوین",
+        "phonePrefix": "387"
+    },
+    {
+        "id": "BB",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "BRB",
+        "nameEn": "Barbados",
+        "nameFa": "باربادوس",
+        "phonePrefix": "1-246"
+    },
+    {
+        "id": "BD",
+        "gmtOffsetInMinute": 21600,
+        "cca5": "BGD",
+        "nameEn": "Bangladesh",
+        "nameFa": "بنگلادش",
+        "phonePrefix": "880"
+    },
+    {
+        "id": "BE",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "BEL",
+        "nameEn": "Belgium",
+        "nameFa": "بلژیک",
+        "phonePrefix": "32"
+    },
+    {
+        "id": "BF",
+        "gmtOffsetInMinute": 0,
+        "cca5": "BFA",
+        "nameEn": "Burkina Faso",
+        "nameFa": "بورکینافاسو",
+        "phonePrefix": "226"
+    },
+    {
+        "id": "BG",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "BGR",
+        "nameEn": "Bulgaria",
+        "nameFa": "بلغارستان",
+        "phonePrefix": "359"
+    },
+    {
+        "id": "BH",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "BHR",
+        "nameEn": "Bahrain",
+        "nameFa": "بحرین",
+        "phonePrefix": "973"
+    },
+    {
+        "id": "BI",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "BDI",
+        "nameEn": "Burundi",
+        "nameFa": "بوروندی",
+        "phonePrefix": "257"
+    },
+    {
+        "id": "BJ",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "BEN",
+        "nameEn": "Benin",
+        "nameFa": "بنین",
+        "phonePrefix": "229"
+    },
+    {
+        "id": "BL",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "BLM",
+        "nameEn": "Saint Barthelemy",
+        "nameFa": "سن-بارتلمی",
+        "phonePrefix": "590"
+    },
+    {
+        "id": "BM",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "BMU",
+        "nameEn": "Bermuda",
+        "nameFa": "برمودا",
+        "phonePrefix": "1-441"
+    },
+    {
+        "id": "BN",
+        "gmtOffsetInMinute": 28800,
+        "cca5": "BRN",
+        "nameEn": "Brunei Darussalam",
+        "nameFa": "برونئی",
+        "phonePrefix": "673"
+    },
+    {
+        "id": "BO",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "BOL",
+        "nameEn": "Bolivia",
+        "nameFa": "بولیوی",
+        "phonePrefix": "591"
+    },
+    {
+        "id": "BQ",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "BES",
+        "nameEn": "Bonaire St. Eustatius",
+        "nameFa": "بونیر",
+        "phonePrefix": "599"
+    },
+    {
+        "id": "BR",
+        "gmtOffsetInMinute": -10800,
+        "cca5": "BRA",
+        "nameEn": "Brazil",
+        "nameFa": "برزیل",
+        "phonePrefix": "55"
+    },
+    {
+        "id": "BS",
+        "gmtOffsetInMinute": -18000,
+        "cca5": "BHS",
+        "nameEn": "Bahamas",
+        "nameFa": "باهاما",
+        "phonePrefix": "1-242"
+    },
+    {
+        "id": "BT",
+        "gmtOffsetInMinute": 21600,
+        "cca5": "BTN",
+        "nameEn": "Bhutan",
+        "nameFa": "بوتان",
+        "phonePrefix": "975"
+    },
+    {
+        "id": "BV",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "BVT",
+        "nameEn": "Bouvet Island",
+        "nameFa": "جزیره بووه",
+        "phonePrefix": "0055"
+    },
+    {
+        "id": "BW",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "BWA",
+        "nameEn": "Botswana",
+        "nameFa": "بوتسوانا",
+        "phonePrefix": "267"
+    },
+    {
+        "id": "BY",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "BLR",
+        "nameEn": "Belarus",
+        "nameFa": "بلاروس",
+        "phonePrefix": "375"
+    },
+    {
+        "id": "BZ",
+        "gmtOffsetInMinute": -21600,
+        "cca5": "BLZ",
+        "nameEn": "Belize",
+        "nameFa": "بلیز",
+        "phonePrefix": "501"
+    },
+    {
+        "id": "CA",
+        "gmtOffsetInMinute": -18000,
+        "cca5": "CAN",
+        "nameEn": "Canada",
+        "nameFa": "کانادا",
+        "phonePrefix": "1"
+    },
+    {
+        "id": "CC",
+        "gmtOffsetInMinute": 23400,
+        "cca5": "CCK",
+        "nameEn": "Cocos (Keeling) Islands",
+        "nameFa": "جزایر کوکوس",
+        "phonePrefix": "61"
+    },
+    {
+        "id": "CD",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "COD",
+        "nameEn": "Congo",
+        "nameFa": "جمهوری کنگو",
+        "phonePrefix": "243"
+    },
+    {
+        "id": "CF",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "CAF",
+        "nameEn": "Central African Republic",
+        "nameFa": "جمهوری آفریقای مرکزی",
+        "phonePrefix": "236"
+    },
+    {
+        "id": "CG",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "COG",
+        "nameEn": "Congo",
+        "nameFa": "کنگو",
+        "phonePrefix": "242"
+    },
+    {
+        "id": "CH",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "CHE",
+        "nameEn": "Switzerland",
+        "nameFa": "سوئیس",
+        "phonePrefix": "41"
+    },
+    {
+        "id": "CI",
+        "gmtOffsetInMinute": 0,
+        "cca5": "CIV",
+        "nameEn": "Cote D'Ivoire (Ivory Coast)",
+        "nameFa": "ساحل عاج",
+        "phonePrefix": "225"
+    },
+    {
+        "id": "CK",
+        "gmtOffsetInMinute": -36000,
+        "cca5": "COK",
+        "nameEn": "Cook Islands",
+        "nameFa": "جزایر کوک",
+        "phonePrefix": "682"
+    },
+    {
+        "id": "CL",
+        "gmtOffsetInMinute": -10800,
+        "cca5": "CHL",
+        "nameEn": "Chile",
+        "nameFa": "شیلی",
+        "phonePrefix": "56"
+    },
+    {
+        "id": "CM",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "CMR",
+        "nameEn": "Cameroon",
+        "nameFa": "کامرون",
+        "phonePrefix": "237"
+    },
+    {
+        "id": "CN",
+        "gmtOffsetInMinute": 28800,
+        "cca5": "CHN",
+        "nameEn": "China",
+        "nameFa": "چین",
+        "phonePrefix": "86"
+    },
+    {
+        "id": "CO",
+        "gmtOffsetInMinute": -18000,
+        "cca5": "COL",
+        "nameEn": "Colombia",
+        "nameFa": "کلمبیا",
+        "phonePrefix": "57"
+    },
+    {
+        "id": "CR",
+        "gmtOffsetInMinute": -21600,
+        "cca5": "CRI",
+        "nameEn": "Costa Rica",
+        "nameFa": "کاستاریکا",
+        "phonePrefix": "506"
+    },
+    {
+        "id": "CU",
+        "gmtOffsetInMinute": -18000,
+        "cca5": "CUB",
+        "nameEn": "Cuba",
+        "nameFa": "کوبا",
+        "phonePrefix": "53"
+    },
+    {
+        "id": "CV",
+        "gmtOffsetInMinute": -3600,
+        "cca5": "CPV",
+        "nameEn": "Cape Verde",
+        "nameFa": "کیپ ورد",
+        "phonePrefix": "238"
+    },
+    {
+        "id": "CW",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "CUW",
+        "nameEn": "Curacao",
+        "nameFa": "کوراسائو",
+        "phonePrefix": "599"
+    },
+    {
+        "id": "CX",
+        "gmtOffsetInMinute": 25200,
+        "cca5": "CXR",
+        "nameEn": "Christmas Island",
+        "nameFa": "جزیره کریسمس",
+        "phonePrefix": "61"
+    },
+    {
+        "id": "CY",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "CYP",
+        "nameEn": "Cyprus",
+        "nameFa": "قبرس",
+        "phonePrefix": "357"
+    },
+    {
+        "id": "CZ",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "CZE",
+        "nameEn": "Czech Republic",
+        "nameFa": "جمهوری چک",
+        "phonePrefix": "420"
+    },
+    {
+        "id": "DE",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "DEU",
+        "nameEn": "Germany",
+        "nameFa": "آلمان",
+        "phonePrefix": "49"
+    },
+    {
+        "id": "DJ",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "DJI",
+        "nameEn": "Djibouti",
+        "nameFa": "جیبوتی",
+        "phonePrefix": "253"
+    },
+    {
+        "id": "DK",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "DNK",
+        "nameEn": "Denmark",
+        "nameFa": "دانمارک",
+        "phonePrefix": "45"
+    },
+    {
+        "id": "DM",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "DMA",
+        "nameEn": "Dominica",
+        "nameFa": "دومینیکا",
+        "phonePrefix": "1-767"
+    },
+    {
+        "id": "DO",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "DOM",
+        "nameEn": "Dominican Republic",
+        "nameFa": "جمهوری دومینیکن",
+        "phonePrefix": "1-809"
+    },
+    {
+        "id": "DZ",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "DZA",
+        "nameEn": "Algeria",
+        "nameFa": "الجزایر",
+        "phonePrefix": "213"
+    },
+    {
+        "id": "EC",
+        "gmtOffsetInMinute": -18000,
+        "cca5": "ECU",
+        "nameEn": "Ecuador",
+        "nameFa": "اکوادور",
+        "phonePrefix": "593"
+    },
+    {
+        "id": "EE",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "EST",
+        "nameEn": "Estonia",
+        "nameFa": "استونی",
+        "phonePrefix": "372"
+    },
+    {
+        "id": "EG",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "EGY",
+        "nameEn": "Egypt",
+        "nameFa": "مصر",
+        "phonePrefix": "20"
+    },
+    {
+        "id": "EH",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "ESH",
+        "nameEn": "Western Sahara",
+        "nameFa": "جمهوری دموکراتیک عربی صحرا",
+        "phonePrefix": "212"
+    },
+    {
+        "id": "ER",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "ERI",
+        "nameEn": "Eritrea",
+        "nameFa": "اریتره",
+        "phonePrefix": "291"
+    },
+    {
+        "id": "ES",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "ESP",
+        "nameEn": "Spain",
+        "nameFa": "اسپانیا",
+        "phonePrefix": "34"
+    },
+    {
+        "id": "ET",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "ETH",
+        "nameEn": "Ethiopia",
+        "nameFa": "اتیوپی",
+        "phonePrefix": "251"
+    },
+    {
+        "id": "FI",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "FIN",
+        "nameEn": "Finland",
+        "nameFa": "فنلاند",
+        "phonePrefix": "358"
+    },
+    {
+        "id": "FJ",
+        "gmtOffsetInMinute": 43200,
+        "cca5": "FJI",
+        "nameEn": "Fiji",
+        "nameFa": "فیجی",
+        "phonePrefix": "679"
+    },
+    {
+        "id": "FK",
+        "gmtOffsetInMinute": -10800,
+        "cca5": "FLK",
+        "nameEn": "Falkland Islands (Malvinas)",
+        "nameFa": "جزایر فالکلند",
+        "phonePrefix": "500"
+    },
+    {
+        "id": "FM",
+        "gmtOffsetInMinute": 36000,
+        "cca5": "FSM",
+        "nameEn": "Micronesia",
+        "nameFa": "ایالات فدرال میکرونزی",
+        "phonePrefix": "691"
+    },
+    {
+        "id": "FO",
+        "gmtOffsetInMinute": 0,
+        "cca5": "FRO",
+        "nameEn": "Faroe Islands",
+        "nameFa": "جزایر فارو",
+        "phonePrefix": "298"
+    },
+    {
+        "id": "FR",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "FRA",
+        "nameEn": "France",
+        "nameFa": "فرانسه",
+        "phonePrefix": "33"
+    },
+    {
+        "id": "GA",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "GAB",
+        "nameEn": "Gabon",
+        "nameFa": "گابن",
+        "phonePrefix": "241"
+    },
+    {
+        "id": "GB",
+        "gmtOffsetInMinute": 0,
+        "cca5": "GBR",
+        "nameEn": "Great Britain (UK)",
+        "nameFa": "بریتانیای کبیر و ایرلند شمالی",
+        "phonePrefix": "44"
+    },
+    {
+        "id": "GD",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "GRD",
+        "nameEn": "Grenada",
+        "nameFa": "گرنادا",
+        "phonePrefix": "1-473"
+    },
+    {
+        "id": "GE",
+        "gmtOffsetInMinute": 14400,
+        "cca5": "GEO",
+        "nameEn": "Georgia",
+        "nameFa": "گرجستان",
+        "phonePrefix": "995"
+    },
+    {
+        "id": "GF",
+        "gmtOffsetInMinute": -10800,
+        "cca5": "GUF",
+        "nameEn": "French Guiana",
+        "nameFa": "گویان فرانسه",
+        "phonePrefix": "594"
+    },
+    {
+        "id": "GG",
+        "gmtOffsetInMinute": 0,
+        "cca5": "GGY",
+        "nameEn": "Guernsey",
+        "nameFa": "گرنزی",
+        "phonePrefix": "44-1481"
+    },
+    {
+        "id": "GH",
+        "gmtOffsetInMinute": 0,
+        "cca5": "GHA",
+        "nameEn": "Ghana",
+        "nameFa": "غنا",
+        "phonePrefix": "233"
+    },
+    {
+        "id": "GI",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "GIB",
+        "nameEn": "Gibraltar",
+        "nameFa": "جبل‌طارق",
+        "phonePrefix": "350"
+    },
+    {
+        "id": "GL",
+        "gmtOffsetInMinute": 0,
+        "cca5": "GRL",
+        "nameEn": "Greenland",
+        "nameFa": "گرینلند",
+        "phonePrefix": "299"
+    },
+    {
+        "id": "GM",
+        "gmtOffsetInMinute": 0,
+        "cca5": "GMB",
+        "nameEn": "Gambia",
+        "nameFa": "گامبیا",
+        "phonePrefix": "220"
+    },
+    {
+        "id": "GN",
+        "gmtOffsetInMinute": 0,
+        "cca5": "GIN",
+        "nameEn": "Guinea",
+        "nameFa": "گینه",
+        "phonePrefix": "224"
+    },
+    {
+        "id": "GP",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "GLP",
+        "nameEn": "Guadeloupe",
+        "nameFa": "جزیره گوادلوپ",
+        "phonePrefix": "590"
+    },
+    {
+        "id": "GQ",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "GNQ",
+        "nameEn": "Equatorial Guinea",
+        "nameFa": "گینه استوایی",
+        "phonePrefix": "240"
+    },
+    {
+        "id": "GR",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "GRC",
+        "nameEn": "Greece",
+        "nameFa": "یونان",
+        "phonePrefix": "30"
+    },
+    {
+        "id": "GS",
+        "gmtOffsetInMinute": -7200,
+        "cca5": "SGS",
+        "nameEn": "S. Georgia and S. Sandwich Isls.",
+        "nameFa": "جزایر جورجیای جنوبی و ساندویچ جنوبی",
+        "phonePrefix": "500"
+    },
+    {
+        "id": "GT",
+        "gmtOffsetInMinute": -21600,
+        "cca5": "GTM",
+        "nameEn": "Guatemala",
+        "nameFa": "گواتمالا",
+        "phonePrefix": "502"
+    },
+    {
+        "id": "GU",
+        "gmtOffsetInMinute": 36000,
+        "cca5": "GUM",
+        "nameEn": "Guam",
+        "nameFa": "گوام",
+        "phonePrefix": "1-671"
+    },
+    {
+        "id": "GW",
+        "gmtOffsetInMinute": 0,
+        "cca5": "GNB",
+        "nameEn": "Guinea-Bissau",
+        "nameFa": "گینه بیسائو",
+        "phonePrefix": "245"
+    },
+    {
+        "id": "GY",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "GUY",
+        "nameEn": "Guyana",
+        "nameFa": "گویان",
+        "phonePrefix": "592"
+    },
+    {
+        "id": "HK",
+        "gmtOffsetInMinute": 28800,
+        "cca5": "HKG",
+        "nameEn": "Hong Kong",
+        "nameFa": "هنگ‌کنگ",
+        "phonePrefix": "852"
+    },
+    {
+        "id": "HM",
+        "gmtOffsetInMinute": 18000,
+        "cca5": "HMD",
+        "nameEn": "Heard and McDonald Islands",
+        "nameFa": "جزیره هرد و جزایر مک‌دونالد",
+        "phonePrefix": "672"
+    },
+    {
+        "id": "HN",
+        "gmtOffsetInMinute": -21600,
+        "cca5": "HND",
+        "nameEn": "Honduras",
+        "nameFa": "هندوراس",
+        "phonePrefix": "504"
+    },
+    {
+        "id": "HR",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "HRV",
+        "nameEn": "Croatia (Hrvatska)",
+        "nameFa": "کرواسی",
+        "phonePrefix": "385"
+    },
+    {
+        "id": "HT",
+        "gmtOffsetInMinute": -18000,
+        "cca5": "HTI",
+        "nameEn": "Haiti",
+        "nameFa": "هائیتی",
+        "phonePrefix": "509"
+    },
+    {
+        "id": "HU",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "HUN",
+        "nameEn": "Hungary",
+        "nameFa": "مجارستان",
+        "phonePrefix": "36"
+    },
+    {
+        "id": "ID",
+        "gmtOffsetInMinute": 25200,
+        "cca5": "IDN",
+        "nameEn": "Indonesia",
+        "nameFa": "اندونزی",
+        "phonePrefix": "62"
+    },
+    {
+        "id": "IE",
+        "gmtOffsetInMinute": 0,
+        "cca5": "IRL",
+        "nameEn": "Ireland",
+        "nameFa": "ایرلند",
+        "phonePrefix": "353"
+    },
+    {
+        "id": "IL",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "ISR",
+        "nameEn": "Israel",
+        "nameFa": "اسرائیل",
+        "phonePrefix": "972"
+    },
+    {
+        "id": "IM",
+        "gmtOffsetInMinute": 0,
+        "cca5": "IMN",
+        "nameEn": "Isle of Man",
+        "nameFa": "جزیره من",
+        "phonePrefix": "44-1624"
+    },
+    {
+        "id": "IN",
+        "gmtOffsetInMinute": 19800,
+        "cca5": "IND",
+        "nameEn": "India",
+        "nameFa": "هند",
+        "phonePrefix": "91"
+    },
+    {
+        "id": "IO",
+        "gmtOffsetInMinute": 21600,
+        "cca5": "IOT",
+        "nameEn": "British Indian Ocean Territory",
+        "nameFa": "قلمرو بریتانیا در اقیانوس هند",
+        "phonePrefix": "246"
+    },
+    {
+        "id": "IQ",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "IRQ",
+        "nameEn": "Iraq",
+        "nameFa": "عراق",
+        "phonePrefix": "964"
+    },
+    {
+        "id": "IR",
+        "gmtOffsetInMinute": 12600,
+        "cca5": "IRN",
+        "nameEn": "Iran",
+        "nameFa": "ایران",
+        "phonePrefix": "98"
+    },
+    {
+        "id": "IS",
+        "gmtOffsetInMinute": 0,
+        "cca5": "ISL",
+        "nameEn": "Iceland",
+        "nameFa": "ایسلند",
+        "phonePrefix": "354"
+    },
+    {
+        "id": "IT",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "ITA",
+        "nameEn": "Italy",
+        "nameFa": "ایتالیا",
+        "phonePrefix": "39"
+    },
+    {
+        "id": "JE",
+        "gmtOffsetInMinute": 0,
+        "cca5": "JEY",
+        "nameEn": "Jersey",
+        "nameFa": "جرزی",
+        "phonePrefix": "44-1534"
+    },
+    {
+        "id": "JM",
+        "gmtOffsetInMinute": -18000,
+        "cca5": "JAM",
+        "nameEn": "Jamaica",
+        "nameFa": "جامائیکا",
+        "phonePrefix": "1-876"
+    },
+    {
+        "id": "JO",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "JOR",
+        "nameEn": "Jordan",
+        "nameFa": "اردن",
+        "phonePrefix": "962"
+    },
+    {
+        "id": "JP",
+        "gmtOffsetInMinute": 32400,
+        "cca5": "JPN",
+        "nameEn": "Japan",
+        "nameFa": "ژاپن",
+        "phonePrefix": "81"
+    },
+    {
+        "id": "KE",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "KEN",
+        "nameEn": "Kenya",
+        "nameFa": "کنیا",
+        "phonePrefix": "254"
+    },
+    {
+        "id": "KG",
+        "gmtOffsetInMinute": 21600,
+        "cca5": "KGZ",
+        "nameEn": "Kyrgyzstan",
+        "nameFa": "قرقیزستان",
+        "phonePrefix": "996"
+    },
+    {
+        "id": "KH",
+        "gmtOffsetInMinute": 25200,
+        "cca5": "KHM",
+        "nameEn": "Cambodia",
+        "nameFa": "کامبوج",
+        "phonePrefix": "855"
+    },
+    {
+        "id": "KI",
+        "gmtOffsetInMinute": 46800,
+        "cca5": "KIR",
+        "nameEn": "Kiribati",
+        "nameFa": "کیریباتی",
+        "phonePrefix": "686"
+    },
+    {
+        "id": "KM",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "COM",
+        "nameEn": "Comoros",
+        "nameFa": "کومور",
+        "phonePrefix": "269"
+    },
+    {
+        "id": "KN",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "KNA",
+        "nameEn": "Saint Kitts and Nevis",
+        "nameFa": "سنت کیتس و نویس",
+        "phonePrefix": "1-869"
+    },
+    {
+        "id": "KP",
+        "gmtOffsetInMinute": 32400,
+        "cca5": "PRK",
+        "nameEn": "Korea (North)",
+        "nameFa": "کره شمالی",
+        "phonePrefix": "850"
+    },
+    {
+        "id": "KR",
+        "gmtOffsetInMinute": 32400,
+        "cca5": "KOR",
+        "nameEn": "Korea (South)",
+        "nameFa": "کره جنوبی",
+        "phonePrefix": "82"
+    },
+    {
+        "id": "KW",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "KWT",
+        "nameEn": "Kuwait",
+        "nameFa": "کویت",
+        "phonePrefix": "965"
+    },
+    {
+        "id": "KY",
+        "gmtOffsetInMinute": -18000,
+        "cca5": "CYM",
+        "nameEn": "Cayman Islands",
+        "nameFa": "جزایر کیمن",
+        "phonePrefix": "1-345"
+    },
+    {
+        "id": "KZ",
+        "gmtOffsetInMinute": 21600,
+        "cca5": "KAZ",
+        "nameEn": "Kazakhstan",
+        "nameFa": "قزاقستان",
+        "phonePrefix": "7"
+    },
+    {
+        "id": "LA",
+        "gmtOffsetInMinute": 25200,
+        "cca5": "LAO",
+        "nameEn": "Laos",
+        "nameFa": "لائوس",
+        "phonePrefix": "856"
+    },
+    {
+        "id": "LB",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "LBN",
+        "nameEn": "Lebanon",
+        "nameFa": "لبنان",
+        "phonePrefix": "961"
+    },
+    {
+        "id": "LC",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "LCA",
+        "nameEn": "Saint Lucia",
+        "nameFa": "سنت لوسیا",
+        "phonePrefix": "1-758"
+    },
+    {
+        "id": "LI",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "LIE",
+        "nameEn": "Liechtenstein",
+        "nameFa": "لیختن‌اشتاین",
+        "phonePrefix": "423"
+    },
+    {
+        "id": "LK",
+        "gmtOffsetInMinute": 19800,
+        "cca5": "LKA",
+        "nameEn": "Sri Lanka",
+        "nameFa": "سری‌لانکا",
+        "phonePrefix": "94"
+    },
+    {
+        "id": "LR",
+        "gmtOffsetInMinute": 0,
+        "cca5": "LBR",
+        "nameEn": "Liberia",
+        "nameFa": "لیبریا",
+        "phonePrefix": "231"
+    },
+    {
+        "id": "LS",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "LSO",
+        "nameEn": "Lesotho",
+        "nameFa": "لسوتو",
+        "phonePrefix": "266"
+    },
+    {
+        "id": "LT",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "LTU",
+        "nameEn": "Lithuania",
+        "nameFa": "لیتوانی",
+        "phonePrefix": "370"
+    },
+    {
+        "id": "LU",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "LUX",
+        "nameEn": "Luxembourg",
+        "nameFa": "لوکزامبورگ",
+        "phonePrefix": "352"
+    },
+    {
+        "id": "LV",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "LVA",
+        "nameEn": "Latvia",
+        "nameFa": "لتونی",
+        "phonePrefix": "371"
+    },
+    {
+        "id": "LY",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "LBY",
+        "nameEn": "Libya",
+        "nameFa": "لیبی",
+        "phonePrefix": "218"
+    },
+    {
+        "id": "MA",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "MAR",
+        "nameEn": "Morocco",
+        "nameFa": "مراکش",
+        "phonePrefix": "212"
+    },
+    {
+        "id": "MC",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "MCO",
+        "nameEn": "Monaco",
+        "nameFa": "موناکو",
+        "phonePrefix": "377"
+    },
+    {
+        "id": "MD",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "MDA",
+        "nameEn": "Moldova",
+        "nameFa": "مولداوی",
+        "phonePrefix": "373"
+    },
+    {
+        "id": "ME",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "MNE",
+        "nameEn": "Montenegro",
+        "nameFa": "مونته‌نگرو",
+        "phonePrefix": "382"
+    },
+    {
+        "id": "MF",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "MAF",
+        "nameEn": "Saint Martin",
+        "nameFa": "سینت مارتن",
+        "phonePrefix": "590"
+    },
+    {
+        "id": "MG",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "MDG",
+        "nameEn": "Madagascar",
+        "nameFa": "ماداگاسکار",
+        "phonePrefix": "261"
+    },
+    {
+        "id": "MH",
+        "gmtOffsetInMinute": 43200,
+        "cca5": "MHL",
+        "nameEn": "Marshall Islands",
+        "nameFa": "جزایر مارشال",
+        "phonePrefix": "692"
+    },
+    {
+        "id": "MK",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "MKD",
+        "nameEn": "F.Y.R.O.M. (Macedonia)",
+        "nameFa": "",
+        "phonePrefix": "389"
+    },
+    {
+        "id": "ML",
+        "gmtOffsetInMinute": 0,
+        "cca5": "MLI",
+        "nameEn": "Mali",
+        "nameFa": "مالی",
+        "phonePrefix": "223"
+    },
+    {
+        "id": "MM",
+        "gmtOffsetInMinute": 23400,
+        "cca5": "MMR",
+        "nameEn": "Myanmar",
+        "nameFa": "میانمار",
+        "phonePrefix": "95"
+    },
+    {
+        "id": "MN",
+        "gmtOffsetInMinute": 28800,
+        "cca5": "MNG",
+        "nameEn": "Mongolia",
+        "nameFa": "مغولستان",
+        "phonePrefix": "976"
+    },
+    {
+        "id": "MO",
+        "gmtOffsetInMinute": 28800,
+        "cca5": "MAC",
+        "nameEn": "Macau",
+        "nameFa": "مکائو",
+        "phonePrefix": "853"
+    },
+    {
+        "id": "MP",
+        "gmtOffsetInMinute": 36000,
+        "cca5": "MNP",
+        "nameEn": "Northern Mariana Islands",
+        "nameFa": "جزایر ماریانای شمالی",
+        "phonePrefix": "1-670"
+    },
+    {
+        "id": "MQ",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "MTQ",
+        "nameEn": "Martinique",
+        "nameFa": "مونتسرات",
+        "phonePrefix": "596"
+    },
+    {
+        "id": "MR",
+        "gmtOffsetInMinute": 0,
+        "cca5": "MRT",
+        "nameEn": "Mauritania",
+        "nameFa": "موریتانی",
+        "phonePrefix": "222"
+    },
+    {
+        "id": "MS",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "MSR",
+        "nameEn": "Montserrat",
+        "nameFa": "مایوت",
+        "phonePrefix": "1-664"
+    },
+    {
+        "id": "MT",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "MLT",
+        "nameEn": "Malta",
+        "nameFa": "مالت",
+        "phonePrefix": "356"
+    },
+    {
+        "id": "MU",
+        "gmtOffsetInMinute": 14400,
+        "cca5": "MUS",
+        "nameEn": "Mauritius",
+        "nameFa": "موریس",
+        "phonePrefix": "230"
+    },
+    {
+        "id": "MV",
+        "gmtOffsetInMinute": 18000,
+        "cca5": "MDV",
+        "nameEn": "Maldives",
+        "nameFa": "مالدیو",
+        "phonePrefix": "960"
+    },
+    {
+        "id": "MW",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "MWI",
+        "nameEn": "Malawi",
+        "nameFa": "مالاوی",
+        "phonePrefix": "265"
+    },
+    {
+        "id": "MX",
+        "gmtOffsetInMinute": -21600,
+        "cca5": "MEX",
+        "nameEn": "Mexico",
+        "nameFa": "مکزیک",
+        "phonePrefix": "52"
+    },
+    {
+        "id": "MY",
+        "gmtOffsetInMinute": 28800,
+        "cca5": "MYS",
+        "nameEn": "Malaysia",
+        "nameFa": "مالزی",
+        "phonePrefix": "60"
+    },
+    {
+        "id": "MZ",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "MOZ",
+        "nameEn": "Mozambique",
+        "nameFa": "موزامبیک",
+        "phonePrefix": "258"
+    },
+    {
+        "id": "NA",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "NAM",
+        "nameEn": "Namibia",
+        "nameFa": "نامیبیا",
+        "phonePrefix": "264"
+    },
+    {
+        "id": "NC",
+        "gmtOffsetInMinute": 39600,
+        "cca5": "NCL",
+        "nameEn": "New Caledonia",
+        "nameFa": "کالدونیای جدید",
+        "phonePrefix": "687"
+    },
+    {
+        "id": "NE",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "NER",
+        "nameEn": "Niger",
+        "nameFa": "نیجر",
+        "phonePrefix": "227"
+    },
+    {
+        "id": "NF",
+        "gmtOffsetInMinute": 43200,
+        "cca5": "NFK",
+        "nameEn": "Norfolk Island",
+        "nameFa": "جزیره نورفک",
+        "phonePrefix": "672"
+    },
+    {
+        "id": "NG",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "NGA",
+        "nameEn": "Nigeria",
+        "nameFa": "نیجریه",
+        "phonePrefix": "234"
+    },
+    {
+        "id": "NI",
+        "gmtOffsetInMinute": -21600,
+        "cca5": "NIC",
+        "nameEn": "Nicaragua",
+        "nameFa": "نیکاراگوئه",
+        "phonePrefix": "505"
+    },
+    {
+        "id": "NL",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "NLD",
+        "nameEn": "Netherlands",
+        "nameFa": "پادشاهی هلند",
+        "phonePrefix": "31"
+    },
+    {
+        "id": "NO",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "NOR",
+        "nameEn": "Norway",
+        "nameFa": "نروژ",
+        "phonePrefix": "47"
+    },
+    {
+        "id": "NP",
+        "gmtOffsetInMinute": 20700,
+        "cca5": "NPL",
+        "nameEn": "Nepal",
+        "nameFa": "نپال",
+        "phonePrefix": "977"
+    },
+    {
+        "id": "NR",
+        "gmtOffsetInMinute": 43200,
+        "cca5": "NRU",
+        "nameEn": "Nauru",
+        "nameFa": "نائورو",
+        "phonePrefix": "674"
+    },
+    {
+        "id": "NU",
+        "gmtOffsetInMinute": -39600,
+        "cca5": "NIU",
+        "nameEn": "Niue",
+        "nameFa": "نیووی",
+        "phonePrefix": "683"
+    },
+    {
+        "id": "NZ",
+        "gmtOffsetInMinute": 46800,
+        "cca5": "NZL",
+        "nameEn": "New Zealand (Aotearoa)",
+        "nameFa": "نیوزیلند",
+        "phonePrefix": "64"
+    },
+    {
+        "id": "OM",
+        "gmtOffsetInMinute": 14400,
+        "cca5": "OMN",
+        "nameEn": "Oman",
+        "nameFa": "عمان",
+        "phonePrefix": "968"
+    },
+    {
+        "id": "PA",
+        "gmtOffsetInMinute": -18000,
+        "cca5": "PAN",
+        "nameEn": "Panama",
+        "nameFa": "پاناما",
+        "phonePrefix": "507"
+    },
+    {
+        "id": "PE",
+        "gmtOffsetInMinute": -18000,
+        "cca5": "PER",
+        "nameEn": "Peru",
+        "nameFa": "پرو",
+        "phonePrefix": "51"
+    },
+    {
+        "id": "PF",
+        "gmtOffsetInMinute": -32400,
+        "cca5": "PYF",
+        "nameEn": "French Polynesia",
+        "nameFa": "پلی‌نزی فرانسه",
+        "phonePrefix": "689"
+    },
+    {
+        "id": "PG",
+        "gmtOffsetInMinute": 39600,
+        "cca5": "PNG",
+        "nameEn": "Papua New Guinea",
+        "nameFa": "پاپوآ گینه نو",
+        "phonePrefix": "675"
+    },
+    {
+        "id": "PH",
+        "gmtOffsetInMinute": 28800,
+        "cca5": "PHL",
+        "nameEn": "Philippines",
+        "nameFa": "جزایر الندفیلیپین",
+        "phonePrefix": "63"
+    },
+    {
+        "id": "PK",
+        "gmtOffsetInMinute": 18000,
+        "cca5": "PAK",
+        "nameEn": "Pakistan",
+        "nameFa": "پاکستان",
+        "phonePrefix": "92"
+    },
+    {
+        "id": "PL",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "POL",
+        "nameEn": "Poland",
+        "nameFa": "لهستان",
+        "phonePrefix": "48"
+    },
+    {
+        "id": "PM",
+        "gmtOffsetInMinute": -10800,
+        "cca5": "SPM",
+        "nameEn": "St. Pierre and Miquelon",
+        "nameFa": "سن پیر و میکلن",
+        "phonePrefix": "508"
+    },
+    {
+        "id": "PN",
+        "gmtOffsetInMinute": -28800,
+        "cca5": "PCN",
+        "nameEn": "Pitcairn",
+        "nameFa": "پیتکرن",
+        "phonePrefix": "870"
+    },
+    {
+        "id": "PR",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "PRI",
+        "nameEn": "Puerto Rico",
+        "nameFa": "پورتو ریکو",
+        "phonePrefix": "1-787"
+    },
+    {
+        "id": "PS",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "PSE",
+        "nameEn": "Palestinian Territory, Occupied",
+        "nameFa": "فلسطین",
+        "phonePrefix": "970"
+    },
+    {
+        "id": "PT",
+        "gmtOffsetInMinute": -3600,
+        "cca5": "PRT",
+        "nameEn": "Portugal",
+        "nameFa": "پرتغال",
+        "phonePrefix": "351"
+    },
+    {
+        "id": "PW",
+        "gmtOffsetInMinute": 32400,
+        "cca5": "PLW",
+        "nameEn": "Palau",
+        "nameFa": "پالائو",
+        "phonePrefix": "680"
+    },
+    {
+        "id": "PY",
+        "gmtOffsetInMinute": -10800,
+        "cca5": "PRY",
+        "nameEn": "Paraguay",
+        "nameFa": "پاراگوئه",
+        "phonePrefix": "595"
+    },
+    {
+        "id": "QA",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "QAT",
+        "nameEn": "Qatar",
+        "nameFa": "قطر",
+        "phonePrefix": "974"
+    },
+    {
+        "id": "RE",
+        "gmtOffsetInMinute": 14400,
+        "cca5": "REU",
+        "nameEn": "Reunion",
+        "nameFa": "رئونیون",
+        "phonePrefix": "262"
+    },
+    {
+        "id": "RO",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "ROU",
+        "nameEn": "Romania",
+        "nameFa": "رومانی",
+        "phonePrefix": "40"
+    },
+    {
+        "id": "RS",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "SRB",
+        "nameEn": "Serbia",
+        "nameFa": "صربستان",
+        "phonePrefix": "381"
+    },
+    {
+        "id": "RU",
+        "gmtOffsetInMinute": 43200,
+        "cca5": "RUS",
+        "nameEn": "Russian Federation",
+        "nameFa": "روسیه",
+        "phonePrefix": "7"
+    },
+    {
+        "id": "RW",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "RWA",
+        "nameEn": "Rwanda",
+        "nameFa": "رواندا",
+        "phonePrefix": "250"
+    },
+    {
+        "id": "SA",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "SAU",
+        "nameEn": "Saudi Arabia",
+        "nameFa": "عربستان سعودی",
+        "phonePrefix": "966"
+    },
+    {
+        "id": "SB",
+        "gmtOffsetInMinute": 39600,
+        "cca5": "SLB",
+        "nameEn": "Solomon Islands",
+        "nameFa": "جزایر سلیمان",
+        "phonePrefix": "677"
+    },
+    {
+        "id": "SC",
+        "gmtOffsetInMinute": 14400,
+        "cca5": "SYC",
+        "nameEn": "Seychelles",
+        "nameFa": "سیشل",
+        "phonePrefix": "248"
+    },
+    {
+        "id": "SD",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "SDN",
+        "nameEn": "Sudan",
+        "nameFa": "سودان",
+        "phonePrefix": "249"
+    },
+    {
+        "id": "SE",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "SWE",
+        "nameEn": "Sweden",
+        "nameFa": "سوئد",
+        "phonePrefix": "46"
+    },
+    {
+        "id": "SG",
+        "gmtOffsetInMinute": 28800,
+        "cca5": "SGP",
+        "nameEn": "Singapore",
+        "nameFa": "سنگاپور",
+        "phonePrefix": "65"
+    },
+    {
+        "id": "SH",
+        "gmtOffsetInMinute": 0,
+        "cca5": "SHN",
+        "nameEn": "St. Helena Island",
+        "nameFa": "سنت هلنا، اسنشن و تریستان دا کونا",
+        "phonePrefix": "290"
+    },
+    {
+        "id": "SI",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "SVN",
+        "nameEn": "Slovenia",
+        "nameFa": "اسلوونی",
+        "phonePrefix": "386"
+    },
+    {
+        "id": "SJ",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "SJM",
+        "nameEn": "Svalbard and Jan Mayen",
+        "nameFa": "سوالبارد و یان ماین",
+        "phonePrefix": "47"
+    },
+    {
+        "id": "SK",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "SVK",
+        "nameEn": "Slovakia",
+        "nameFa": "اسلواکی",
+        "phonePrefix": "421"
+    },
+    {
+        "id": "SL",
+        "gmtOffsetInMinute": 0,
+        "cca5": "SLE",
+        "nameEn": "Sierra Leone",
+        "nameFa": "سیرالئون",
+        "phonePrefix": "232"
+    },
+    {
+        "id": "SM",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "SMR",
+        "nameEn": "San Marino",
+        "nameFa": "سان مارینو",
+        "phonePrefix": "378"
+    },
+    {
+        "id": "SN",
+        "gmtOffsetInMinute": 0,
+        "cca5": "SEN",
+        "nameEn": "Senegal",
+        "nameFa": "سنگال",
+        "phonePrefix": "221"
+    },
+    {
+        "id": "SO",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "SOM",
+        "nameEn": "Somalia",
+        "nameFa": "سومالی",
+        "phonePrefix": "252"
+    },
+    {
+        "id": "SR",
+        "gmtOffsetInMinute": -10800,
+        "cca5": "SUR",
+        "nameEn": "Suriname",
+        "nameFa": "سورینام",
+        "phonePrefix": "597"
+    },
+    {
+        "id": "SS",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "SSD",
+        "nameEn": "South Sudan",
+        "nameFa": "سودان جنوبی",
+        "phonePrefix": "211"
+    },
+    {
+        "id": "ST",
+        "gmtOffsetInMinute": 0,
+        "cca5": "STP",
+        "nameEn": "Sao Tome and Principe",
+        "nameFa": "کواترو دو فرویرو",
+        "phonePrefix": "239"
+    },
+    {
+        "id": "SV",
+        "gmtOffsetInMinute": -21600,
+        "cca5": "SLV",
+        "nameEn": "El Salvador",
+        "nameFa": "السالوادور",
+        "phonePrefix": "503"
+    },
+    {
+        "id": "SX",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "SXM",
+        "nameEn": "Sint Maarten",
+        "nameFa": "سینت مارتن",
+        "phonePrefix": "1721"
+    },
+    {
+        "id": "SY",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "SYR",
+        "nameEn": "Syrian",
+        "nameFa": "سوریه",
+        "phonePrefix": "963"
+    },
+    {
+        "id": "SZ",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "SWZ",
+        "nameEn": "Swaziland",
+        "nameFa": "سوازیلند",
+        "phonePrefix": "268"
+    },
+    {
+        "id": "TC",
+        "gmtOffsetInMinute": -18000,
+        "cca5": "TCA",
+        "nameEn": "Turks and Caicos Islands",
+        "nameFa": "جزایر تورکس و کایکوس",
+        "phonePrefix": "1-649"
+    },
+    {
+        "id": "TD",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "TCD",
+        "nameEn": "Chad",
+        "nameFa": "چاد",
+        "phonePrefix": "235"
+    },
+    {
+        "id": "TF",
+        "gmtOffsetInMinute": 18000,
+        "cca5": "ATF",
+        "nameEn": "French Southern Territories",
+        "nameFa": "سرزمین‌های جنوبی و جنوبگانی فرانسه",
+        "phonePrefix": "262"
+    },
+    {
+        "id": "TG",
+        "gmtOffsetInMinute": 0,
+        "cca5": "TGO",
+        "nameEn": "TOGO",
+        "nameFa": "توگو",
+        "phonePrefix": "228"
+    },
+    {
+        "id": "TH",
+        "gmtOffsetInMinute": 25200,
+        "cca5": "THA",
+        "nameEn": "Thailand",
+        "nameFa": "تایلند",
+        "phonePrefix": "66"
+    },
+    {
+        "id": "TJ",
+        "gmtOffsetInMinute": 18000,
+        "cca5": "TJK",
+        "nameEn": "Tajikistan",
+        "nameFa": "تاجیکستان",
+        "phonePrefix": "992"
+    },
+    {
+        "id": "TK",
+        "gmtOffsetInMinute": 46800,
+        "cca5": "TKL",
+        "nameEn": "Tokelau",
+        "nameFa": "توکلائو",
+        "phonePrefix": "690"
+    },
+    {
+        "id": "TL",
+        "gmtOffsetInMinute": 32400,
+        "cca5": "TLS",
+        "nameEn": "Timor-Leste",
+        "nameFa": "تیمور شرقی",
+        "phonePrefix": "670"
+    },
+    {
+        "id": "TM",
+        "gmtOffsetInMinute": 18000,
+        "cca5": "TKM",
+        "nameEn": "Turkmenistan",
+        "nameFa": "ترکمنستان",
+        "phonePrefix": "993"
+    },
+    {
+        "id": "TN",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "TUN",
+        "nameEn": "Tunisia",
+        "nameFa": "تونس",
+        "phonePrefix": "216"
+    },
+    {
+        "id": "TO",
+        "gmtOffsetInMinute": 46800,
+        "cca5": "TON",
+        "nameEn": "Tonga",
+        "nameFa": "تونگا",
+        "phonePrefix": "676"
+    },
+    {
+        "id": "TR",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "TUR",
+        "nameEn": "Turkey",
+        "nameFa": "ترکیه",
+        "phonePrefix": "90"
+    },
+    {
+        "id": "TT",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "TTO",
+        "nameEn": "Trinidad and Tobago",
+        "nameFa": "ترینیداد و توباگو",
+        "phonePrefix": "1-868"
+    },
+    {
+        "id": "TV",
+        "gmtOffsetInMinute": 43200,
+        "cca5": "TUV",
+        "nameEn": "Tuvalu",
+        "nameFa": "تووالو",
+        "phonePrefix": "688"
+    },
+    {
+        "id": "TW",
+        "gmtOffsetInMinute": 28800,
+        "cca5": "TWN",
+        "nameEn": "Taiwan",
+        "nameFa": "تایوان",
+        "phonePrefix": "886"
+    },
+    {
+        "id": "TZ",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "TZA",
+        "nameEn": "Tanzania-United Republic",
+        "nameFa": "تانزانیا",
+        "phonePrefix": "255"
+    },
+    {
+        "id": "UA",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "UKR",
+        "nameEn": "Ukraine",
+        "nameFa": "وکراین",
+        "phonePrefix": "380"
+    },
+    {
+        "id": "UG",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "UGA",
+        "nameEn": "Uganda",
+        "nameFa": "اوگاندا",
+        "phonePrefix": "256"
+    },
+    {
+        "id": "UM",
+        "gmtOffsetInMinute": -39600,
+        "cca5": "UMI",
+        "nameEn": "Midway Islands",
+        "nameFa": "جزایر کوچک حاشیه‌ای ایالات متحده آمریکا",
+        "phonePrefix": "1"
+    },
+    {
+        "id": "US",
+        "gmtOffsetInMinute": -36000,
+        "cca5": "USA",
+        "nameEn": "United States",
+        "nameFa": "ایالات متحده آمریکا",
+        "phonePrefix": "1"
+    },
+    {
+        "id": "UY",
+        "gmtOffsetInMinute": -10800,
+        "cca5": "URY",
+        "nameEn": "Uruguay",
+        "nameFa": "اروگوئه",
+        "phonePrefix": "598"
+    },
+    {
+        "id": "UZ",
+        "gmtOffsetInMinute": 18000,
+        "cca5": "UZB",
+        "nameEn": "Uzbekistan",
+        "nameFa": "ازبکستان",
+        "phonePrefix": "998"
+    },
+    {
+        "id": "VA",
+        "gmtOffsetInMinute": 3600,
+        "cca5": "VAT",
+        "nameEn": "Vatican",
+        "nameFa": "سریر مقدس",
+        "phonePrefix": "379"
+    },
+    {
+        "id": "VC",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "VCT",
+        "nameEn": "Vincent",
+        "nameFa": "سنت وینسنت و گرنادین‌ها",
+        "phonePrefix": "1-784"
+    },
+    {
+        "id": "VE",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "VEN",
+        "nameEn": "Venezuela",
+        "nameFa": "ونزوئلا",
+        "phonePrefix": "58"
+    },
+    {
+        "id": "VG",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "VGB",
+        "nameEn": "Virgin Islands-British",
+        "nameFa": "جزایر ویرجین بریتانیا",
+        "phonePrefix": "1-284"
+    },
+    {
+        "id": "VI",
+        "gmtOffsetInMinute": -14400,
+        "cca5": "VIR",
+        "nameEn": "Virgin Islands-US",
+        "nameFa": "جزایر ویرجین آمریکا",
+        "phonePrefix": "1-340"
+    },
+    {
+        "id": "VN",
+        "gmtOffsetInMinute": 25200,
+        "cca5": "VNM",
+        "nameEn": "Vietnam",
+        "nameFa": "ویتنام",
+        "phonePrefix": "84"
+    },
+    {
+        "id": "VU",
+        "gmtOffsetInMinute": 39600,
+        "cca5": "VUT",
+        "nameEn": "Vanuatu",
+        "nameFa": "وانواتو",
+        "phonePrefix": "678"
+    },
+    {
+        "id": "WF",
+        "gmtOffsetInMinute": 43200,
+        "cca5": "WLF",
+        "nameEn": "Wallis and Futuna Islands",
+        "nameFa": "والیس و فوتونا",
+        "phonePrefix": "681"
+    },
+    {
+        "id": "WS",
+        "gmtOffsetInMinute": 50400,
+        "cca5": "WSM",
+        "nameEn": "Samoa",
+        "nameFa": "ساموآ",
+        "phonePrefix": "685"
+    },
+    {
+        "id": "XC",
+        "gmtOffsetInMinute": 18000,
+        "cca5": "UA-43",
+        "nameEn": "Crimea",
+        "nameFa": "کریمه",
+        "phonePrefix": "7-365"
+    },
+    {
+        "id": "YE",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "YEM",
+        "nameEn": "Yemen",
+        "nameFa": "یمن",
+        "phonePrefix": "967"
+    },
+    {
+        "id": "YT",
+        "gmtOffsetInMinute": 10800,
+        "cca5": "MYT",
+        "nameEn": "Mayotte",
+        "nameFa": "مایوت",
+        "phonePrefix": "262"
+    },
+    {
+        "id": "ZA",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "ZAF",
+        "nameEn": "South Africa",
+        "nameFa": "آفریقای جنوبی",
+        "phonePrefix": "27"
+    },
+    {
+        "id": "ZM",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "ZMB",
+        "nameEn": "Zambia",
+        "nameFa": "زامبیا",
+        "phonePrefix": "260"
+    },
+    {
+        "id": "ZW",
+        "gmtOffsetInMinute": 7200,
+        "cca5": "ZWE",
+        "nameEn": "Zimbabwe",
+        "nameFa": "زیمباوه",
+        "phonePrefix": "263"
+    },
+    {
+        "id": "AN",
+        "cca5": "ANT",
+        "gmtOffsetInMinute": -24000,
+        "nameEn": "Netherlands Antilles",
+        "nameFa": "آنتیل هلند",
+        "phonePrefix": "599"
+    }
+]
