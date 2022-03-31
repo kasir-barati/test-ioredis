@@ -14,7 +14,7 @@ export function IsPhoneNumberForRegion(
         registerDecorator({
             name: 'isPhoneNumberForRegion',
             target: object.constructor,
-            propertyName: propertyName,
+            propertyName,
             constraints: [property],
             options: validationOptions,
             validator: {

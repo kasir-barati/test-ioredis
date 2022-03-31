@@ -1,7 +1,7 @@
 import type { Config } from '@jest/types';
+import { pathsToModuleNameMapper } from 'ts-jest/utils';
 
 import { compilerOptions } from '../tsconfig.json';
-import { pathsToModuleNameMapper } from 'ts-jest/utils';
 
 const config: Config.InitialOptions = {
     moduleNameMapper: pathsToModuleNameMapper(compilerOptions.paths),

@@ -1,5 +1,5 @@
 import { CacheModule, Module } from '@nestjs/common';
-import { ConfigModule } from '@nestjs/config';
+import { ConfigModule, ConfigService } from '@nestjs/config';
 import * as redisStore from 'cache-manager-redis-store';
 import { AppService } from './service/app.service';
 import { AppController } from './app.controller';
@@ -8,34 +8,40 @@ import { EventEmitterModule } from '@nestjs/event-emitter';
 import { AllHttpExceptionsFilter } from '../shared/jSend';
 import { BullModule } from '@nestjs/bull';
 import { ThrottlerModule } from '@nestjs/throttler';
-import { ThrottlerStorageRedisService } from 'nestjs-throttler-storage-redis';
+
 import { RedisOptions } from 'ioredis';
+
+import { validate } from './validators/env.validator';
+import webAppConfig from './configs/web-app.config';
+import corsConfig from './configs/cors.config';
+import helmetConfig from './configs/helmet.config';
+import cacheConfig from './configs/cache.config';
 
 @Module({
     imports: [
         ConfigModule.forRoot({
-            isGlobal: true,
+            envFilePath: ['.env'],
+            load: [webAppConfig, corsConfig, helmetConfig],
+            cache: true,
+            validate,
         }),
-        CacheModule.register<RedisOptions>({
+        CacheModule.registerAsync<RedisOptions>({
+            imports: [ConfigModule],
+            inject: [ConfigService],
             isGlobal: true,
-            store: redisStore,
-            host: process.env.REDIS_HOST,
-            port: +process.env.REDIS_PORT,
+            useFactory: cacheConfig,
+            // store: redisStore,
         }),
-        ThrottlerModule.forRoot({
-            ttl: 60,
-            limit: 10,
-            storage: new ThrottlerStorageRedisService({
-                host: process.env.REDIS_HOST,
-                port: +process.env.REDIS_PORT,
-                db: 1,
-            }),
+        ThrottlerModule.forRootAsync({
+            imports: [ConfigModule],
+            inject: [ConfigService],
+            useFactory: 
         }),
         ScheduleModule.forRoot(),
         BullModule.forRoot({
             redis: {
                 host: process.env.REDIS_HOST,
-                port: +process.env.REDIS_PORT,
+                port: +(process.env as any).REDIS_PORT,
             },
         }),
         EventEmitterModule.forRoot(),
